@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **banersayantan2003@gmail.com**
 
-- ⚡ Fun fact **open minded and Extrover**
+- ⚡ Fun fact **open minded and Extrovert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
