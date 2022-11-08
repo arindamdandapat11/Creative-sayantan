@@ -30,7 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=creative-sayantan&show_icons=true&locale=en" alt="creative-sayantan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=creative-sayantan&" alt="creative-sayantan" /></p>
 
 ### Statistics:
 ![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Creative-sayantan)
