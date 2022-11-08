@@ -31,3 +31,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=creative-sayantan&show_icons=true&locale=en" alt="creative-sayantan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=creative-sayantan&" alt="creative-sayantan" /></p>
+
+### Statistics:
+![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Creative-sayantan)
+![tropht stats](https://github-profile-trophy.vercel.app/?username=Creative-sayantan)
+<br>
+![Subrata's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Creative-sayantan&theme=react-black)
