@@ -19,7 +19,6 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/sayantan-banerjee-571ab123a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sayantan-banerjee-571ab123a" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/sayantanbanerjee.babai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sayantanbanerjee.babai" height="30" width="40" /></a>
 <a href="https://instagram.com/sayantan_sings" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayantan_sings" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sayantan_200" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sayantan_200" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/banersayantan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="banersayantan" height="30" width="40" /></a>
 </p>
 
