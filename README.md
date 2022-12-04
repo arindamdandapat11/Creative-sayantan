@@ -34,4 +34,3 @@
 ![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Creative-sayantan)
 ![tropht stats](https://github-profile-trophy.vercel.app/?username=Creative-sayantan)
 <br>
-![Sayantan's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Creative-sayantan&theme=react-black)
