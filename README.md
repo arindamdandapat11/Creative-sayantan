@@ -33,3 +33,6 @@
 ![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Creative-sayantan)
 ![tropht stats](https://github-profile-trophy.vercel.app/?username=Creative-sayantan)
 <br>
+<p align="center">
+  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
