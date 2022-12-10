@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*QhDBkeGlQFEevjPTCvO93g.png)
 <h1 align="center">Hi 👋, I'm Sayantan Banerjee</h1>
-<h3 align="center">A passionate Softwere developer from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creative-sayantan&label=Profile%20views&color=0e75b6&style=flat" alt="creative-sayantan" /> </p>
