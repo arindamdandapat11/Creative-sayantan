@@ -1,4 +1,4 @@
-![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*QhDBkeGlQFEevjPTCvO93g.png)
+![MasterHead](https://w10.naukri.com/mailers/2021/naukri-learning/oct/28oct/What-is-Data-Analysis.jpg)
 <h1 align="center">Hi 👋, I'm Sayantan Banerjee</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
