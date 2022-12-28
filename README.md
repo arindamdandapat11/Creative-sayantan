@@ -1,4 +1,4 @@
-![MasterHead](https://w10.naukri.com/mailers/2021/naukri-learning/oct/28oct/What-is-Data-Analysis.jpg)
+![MasterHead](https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif)
 <h1 align="center">Hi 👋, I'm Sayantan Banerjee</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
@@ -27,12 +27,19 @@
 
 ![Sayantan's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Creative-sayantan&layout=compact&langs_count=8&theme=onedark)
 
+
 ![Sayantan's Github Stats](https://github-readme-stats.vercel.app/api?username=Creative-sayantan&show_icons=true&theme=onedark)
+<img align="right" alt="Coding" width="400" src="https://38.media.tumblr.com/74f912f582bdcbc470a75176011e692d/tumblr_n9whw0LDId1twkrf5o1_1280.gif">
 
 ### Statistics:
 ![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Creative-sayantan&theme=onedark&column=-1)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Creative-sayantan&theme=onedark&column=-1)
 <br>
+
+<p align="center">
+  <img src="https://miro.medium.com/max/1400/1*dgSHu7PcxlpGYuu7RHt-nQ.gif"></center>
+</p>
+
 <p align="center">
   <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
