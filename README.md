@@ -37,7 +37,7 @@
 <br>
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*dgSHu7PcxlpGYuu7RHt-nQ.gif"></center>
+  <img src="https://miro.medium.com/max/1200/0*U-TFeHuUzHcYiZnv.gif"></center>
 </p>
 
 <p align="center">
