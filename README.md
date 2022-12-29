@@ -1,6 +1,6 @@
 ![MasterHead](https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif)
 <h1 align="center">Hi 👋, I'm Sayantan Banerjee</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Upcoming Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creative-sayantan&label=Profile%20views&color=0e75b6&style=flat" alt="creative-sayantan" /> </p>
