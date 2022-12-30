@@ -28,7 +28,6 @@
 ![Sayantan's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Creative-sayantan&layout=compact&langs_count=8&theme=onedark)
 ![Sayantan's Github Stats](https://github-readme-stats.vercel.app/api?username=Creative-sayantan&show_icons=true&theme=onedark)
 
-
 ### Statistics:
 ![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Creative-sayantan&theme=onedark&column=-1)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Creative-sayantan&theme=onedark&column=-1)
