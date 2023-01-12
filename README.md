@@ -32,10 +32,6 @@
 ![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Creative-sayantan&theme=onedark&column=-1)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Creative-sayantan&theme=onedark&column=-1)
 <br>
-<h3 align="center">Big data is like teenage sex; everyone talks about it, nobody really knows how to do it, everyone thinks everyone else is doing it, so everyone claims they are doing it.</h3>
-<p align="center">
-  <img src="https://miro.medium.com/max/1200/0*U-TFeHuUzHcYiZnv.gif"></center>
-</p>
 
 <p align="center">
   <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
