@@ -1,7 +1,7 @@
-![MasterHead](https://i.pinimg.com/originals/07/5e/b7/075eb74eca4cb75163d83e77b743f998.gif)
+![MasterHead](https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif)
 <h1 align="center">Hi 👋, I'm Sayantan Banerjee</h1>
 <h3 align="center">A Passionate Upcoming Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/046/297/100/original/inkpendude-wp-v4.gif?1644780728">
+<img align="right" alt="Coding" width="400" src="https://i.redd.it/z4m6w0qlr3x91.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creative-sayantan&label=Profile%20views&color=0e75b6&style=flat" alt="creative-sayantan" /> </p>
 
