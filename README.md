@@ -1,7 +1,7 @@
-![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--zcgnnIIB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://thepracticaldev.s3.amazonaws.com/i/rg4qme58y9dk6q5hedze.gif)
+![MasterHead](https://www.un.org/sites/un2.un.org/files/field/image/1594842639.8507.jpg)
 <h1 align="center">Hi 👋, I'm Sayantan Banerjee</h1>
 <h3 align="center">A Passionate Upcoming Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
+<img align="right" alt="Coding" width="400" src="https://codevitalive.files.wordpress.com/2022/10/be0ba-program.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creative-sayantan&label=Profile%20views&color=0e75b6&style=flat" alt="creative-sayantan" /> </p>
 
