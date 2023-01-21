@@ -1,9 +1,10 @@
-![MasterHead](https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif)
+<p align="center"> <img src="https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif" width="1000" height="300" alt="sayantan"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=creative-sayantan&label=Profile%20views&color=0e75b6&style=flat"  alt="creative-sayantan" /> </p>
+
 <h1 align="center">Hi 👋, I'm Sayantan Banerjee</h1>
 <h3 align="center">A Passionate Upcoming Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.redd.it/z4m6w0qlr3x91.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=creative-sayantan&label=Profile%20views&color=0e75b6&style=flat" alt="creative-sayantan" /> </p>
 
 - 🌱 I’m currently learning **Advanced Python**
 
