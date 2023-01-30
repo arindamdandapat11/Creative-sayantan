@@ -37,4 +37,4 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creative-sayantan&theme=algolia&layout=compact&hide_border=true&bg_color=000000&text_color=0079fa" alt="Sayantan" />
 </div> <br>
 
-![Subrata's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Creative-sayantan&custom_title=Sayantan's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)
+![Sayantan's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Creative-sayantan&custom_title=Sayantan's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)
