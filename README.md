@@ -5,7 +5,6 @@
 <h3 align="center">A Passionate Upcoming Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.redd.it/z4m6w0qlr3x91.gif">
 
-
 - 🌱 I’m currently learning **Advanced Python**
 
 - 💬 Ask me about **Python , Pandas & MySQL**
