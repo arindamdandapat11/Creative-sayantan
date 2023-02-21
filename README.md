@@ -1,37 +1,48 @@
-<p align="center"> <img src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg" width="1000" height="500" alt="sayantan"/> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=creative-sayantan&label=Profile%20views&color=0e75b6&style=flat"  alt="creative-sayantan" /> </p>
-
 <h1 align="center">Hi 👋, I'm Sayantan Banerjee</h1>
 <h3 align="center">A Passionate Upcoming Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-lo-fi-illustrations_23-2149325745.jpg?w=2000">
 
-- 🌱 I’m currently learning **Advanced Python**
-
-- 💬 Ask me about **Python , Pandas & MySQL**
-
-- 📫 How to reach me **banersayantan2003@gmail.com**
-
-- ⚡ Fun fact **Extrovert😉✌️**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sayantan-banerjee-571ab123a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayantan-banerjee-571ab123a" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/banersayantan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/banersayantan/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=61D9FA&labelColor=20232A"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=61D9FA&labelColor=20232A"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=js&logoColor=white&color=61D9FA&labelColor=20232A"/>
+</p> 
+<p align="center">
+  <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mongodb&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=61D9FA&labelColor=20232A"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Tools-Chrome-informational?style=flat&logo=chrome&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=61D9FA&labelColor=20232A"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<p align="center"><br>
-  <img align="center" src="assets/lofi.gif" alt="Lofi Girl drinking coffee coding" /> <br>
-</p>
-  
-<div align="center">
-  <h2> <strong> My Github Stats </strong> <img src="assets/borderseperator.gif"></h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Creative-sayantan&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
- 
- <img src="https://streak-stats.demolab.com?    user=Creative-sayantan&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
-<img src="https://github-readme-stats-i66v.vercel.app/api?username=Creative-sayantan&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creative-sayantan&theme=algolia&layout=compact&hide_border=true&bg_color=000000&text_color=0079fa" alt="Sayantan" />
-</div> <br>
 
-![Sayantan's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Creative-sayantan&custom_title=Sayantan's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)
+## &#x269B; Language Stats
+
+<p align="center">
+  <a align="center" href="https://github.com/Creative-sayantan">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creative-sayantan&theme=react&hide_border=true" />
+  </a>
+</p>
+
+## &#x1F680; GitHub Stats
+
+<p align="center">
+  <a align="center" href="https://github.com/Creative-sayantan">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Creative-sayantan&show_icons=true&line_height=27&count_private=true&theme=react&hide_border=true" alt="Sayantan's GitHub Stats" />
+  </a>
+ </p>
+
+## &#128202; Contribution Stats
+
+<p align="center">
+  <img alt="Sayantan's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Creative-sayantan&theme=react&hide_border=true"/>
+</p>
