@@ -46,3 +46,21 @@
 <p align="center">
   <img alt="Sayantan's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Creative-sayantan&theme=react&hide_border=true"/>
 </p>
+
+## 📱 Socials
+
+<p align="center">
+	<a href="https://www.instagram.com/the_evening.glory/">
+		<img src="https://img.shields.io/badge/Instagram-informational?style=social&logo=instagram"/>
+	</a>
+	<a href="www.linkedin.com/in/sayantan-banerjee-571ab123a">
+		<img src="https://img.shields.io/badge/Linked_In-informational?style=social&logo=linkedin"/>
+	</a>
+  <a href="https://auth.geeksforgeeks.org/user/banersayantan/">
+		<img src="https://img.shields.io/badge/GFG-informational?style=social&logo=geeksforgeeks"/>
+	</a>
+	<a href="https://www.github.com/Creative-sayantan/">
+		<img src="https://img.shields.io/badge/Github-informational?style=social&logo=github"/>
+	</a>
+</p>
+</div>
