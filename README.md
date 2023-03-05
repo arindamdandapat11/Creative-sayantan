@@ -11,13 +11,12 @@
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=61D9FA&labelColor=20232A"/>
   <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=61D9FA&labelColor=20232A"/>
   <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css&logoColor=white&color=61D9FA&labelColor=20232A"/>
   <img src="https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=js&logoColor=white&color=61D9FA&labelColor=20232A"/>
 </p> 
 <p align="center">
   <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mongodb&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=61D9FA&labelColor=20232A"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Tools-Chrome-informational?style=flat&logo=chrome&logoColor=white&color=61D9FA&labelColor=20232A"/>
