@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=Creative-sayantan&icon=2&color=1)](https://visitcount.itsvg.in)
 # 💫 About Me:
 ### 🔭 I’m currently working on Data Science(●'◡'●)
 
